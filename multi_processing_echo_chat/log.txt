@@ -1,0 +1,6 @@
+[user2] hello
+[user2] bye
+close clnt : 5
+[user1] hihi
+[user1] bye
+close clnt : 5
